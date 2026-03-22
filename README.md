@@ -10,10 +10,9 @@ I began my core programming journey recently with Python and believe in learning
 
 ### 🚀 What I'm Building
 I am actively applying my Computer Science fundamentals to personal projects:
-* **🎙️ Vitahar website** . Age specific Blockchain Based Food Health Verification Platform for Safe and Informed Nutrition in India.
+* **🎙️ Vitahar Website:** Age specific Blockchain Based Food Health Verification Platform for Safe and Informed Nutrition in India.
 * **💰 Personal Expense Tracker:** A Python-based application designed to solve a real-world problem for university students by helping them track their daily spending.
-* **🎓 Student Management System:** A system built in Python that utilizes file handling (text files) for efficient data storage and retrieval.
-
+* **🎓 House Price Estimator:** “An intelligent system that predicts accurate house prices using machine learning algorithms.”
 ### 🛠️ Skills & Learning
 * **Languages:** Python, SQL
 * **Core Concepts:** Algorithms, Data Structures, Object-Oriented Programming
