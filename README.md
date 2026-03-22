@@ -21,7 +21,7 @@ I am actively applying my Computer Science fundamentals to personal projects:
 
 ### 📫 Let's Connect
 I am always open to collaborating on open-source projects, discussing AI, or just chatting about tech!
-* **LinkedIn:** [www.linkedin.com/in/ankit-kumar-ojha29](Put your actual LinkedIn URL here)
+* **LinkedIn:** [www.linkedin.com/in/ankit-kumar-ojha29] (Put your actual LinkedIn URL here)
 
 ---
 <p align="center"> <i>"Striving for right understanding in both code and life."</i> </p>
